@@ -5,7 +5,9 @@ BNBHero 学员项目 可升级合约
 ## 证明
 
 Proxy 地址: 0xe00956a84e01333b2b678959f7be90c63928718c
+
 V1Implement 地址: 0xf353f8c16556c1699bc8e41e259c4f074329202b
+
 V2Implement 地址: 0xB8e3BC1E70d8b3Bac108d89DED51FD0bd86564ce
 
 ### 部署 V1 合约
